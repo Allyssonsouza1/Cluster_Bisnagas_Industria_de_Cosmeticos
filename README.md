@@ -5,6 +5,7 @@ Este projeto aplica técnicas de **Aprendizagem de Máquina Não Supervisionada*
 
 ![Objeto de Estudo](https://raw.githubusercontent.com/Allyssonsouza1/Cluster_Bisnagas_Industria_de_Cosmeticos/main/paper/obj_estudo%20.png)
 
+🎓 Este projeto é a resolução de um **problema real da indústria** e foi utilizado como trabalho de conclusão da especialização em **Data Science e Big Data pela UFPR**. Para uma visão completa da metodologia e resultados, [acesse o artigo completo aqui](https://github.com/Allyssonsouza1/Cluster_Bisnagas_Industria_de_Cosmeticos/blob/main/paper/DSBD_UFPR_Cluster_Allyson.pdf).
 
 ### 🚀 Impactos nos Indicadores (KPIs)
 * **Ganho de Produtividade:** Internalização ( retirando de terceiros) de **7% no volume produtivo** através otimização nos roteiros produtivos (cadência e tempo de setup).
