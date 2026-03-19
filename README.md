@@ -3,6 +3,9 @@
 ## 📄 Sobre o Projeto
 Este projeto aplica técnicas de **Aprendizagem de Máquina Não Supervisionada** para mapear e compreender perfis de grupos em um portfólio de mais de 2.000 SKUs de bisnagas. A análise foca em características físicas e técnicas para transformar a performance operacional.
 
+![Objeto de Estudo](paper/__obj_estudo.png)
+
+
 ### 🚀 Impactos nos Indicadores (KPIs)
 * **Ganho de Produtividade:** Internalização ( retirando de terceiros) de **7% no volume produtivo** através otimização nos roteiros produtivos (cadência e tempo de setup).
 * **Retorno Financeiro:** Impacto estimado de **R$ 1,5 milhão em receita**
