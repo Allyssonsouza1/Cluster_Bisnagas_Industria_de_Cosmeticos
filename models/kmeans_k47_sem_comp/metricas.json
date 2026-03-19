@@ -1,0 +1,6 @@
+{
+  "modelo": "K-Means",
+  "k": 47,
+  "silhouette_score": 0.5453,
+  "davies_bouldin_score": 0.5688
+}

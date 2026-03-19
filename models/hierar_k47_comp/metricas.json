@@ -1,0 +1,7 @@
+{
+  "modelo": "Hierárquico Ward",
+  "k": 47,
+  "silhouette_score": 0.5582,
+  "davies_bouldin_score": 0.8128,
+  "correlacao_cofenetica": 0.7216
+}
