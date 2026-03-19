@@ -1,9 +1,9 @@
 # Clusterização de Bisnagas: Eficiência Operacional na Indústria de Cosméticos
 
 ## 📄 Sobre o Projeto
-Este projeto aplica técnicas de **Aprendizagem de Máquina Não Supervisionada** para mapear e compreender perfis de grupos em um portfólio de mais de 2.000 SKUs de bisnagas. A análise foca em características físicas e técnicas para transformar a performance operacional.
+Este projeto aplica técnicas de **Aprendizagem de Máquina Não Supervisionada** para mapear e compreender perfis de grupos em um portfólio de mais de **2.000 SKUs de bisnagas**. A análise foca em características físicas e técnicas para transformar a performance operacional.
 
-![Objeto de Estudo](paper/__obj_estudo.png)
+![Objeto de Estudo](https://raw.githubusercontent.com/Allyssonsouza1/Cluster_Bisnagas_Industria_de_Cosmeticos/main/paper/obj_estudo%20.png)
 
 
 ### 🚀 Impactos nos Indicadores (KPIs)
